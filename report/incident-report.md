@@ -42,6 +42,10 @@ Compromised User Account: phoebe
 Log Source: /var/log/auth.log  
 Attack Vector: SSH Brute Force  
 
+## ACTIONS
+Escalate to L2 Analyst
+Marked the alert as True Positive
+
 ## RECOMMENDATIONS
 
 1. Disable password-based SSH authentication and enforce SSH key-based authentication.
