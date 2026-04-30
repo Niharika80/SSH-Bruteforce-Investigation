@@ -1,4 +1,4 @@
-# Linux Threat Detection with Wazuh
+# SSH Bruteforce Investigation
 
 ## Project Overview
 This SOC lab simulates a Linux attack chain involving SSH brute force and privilege escalation, analyzes Wazuh alerts, and documents the investigation in a security incident report.
